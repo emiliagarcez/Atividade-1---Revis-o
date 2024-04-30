@@ -1,2 +1,1 @@
-# Estrutura-de-Dados
-Atividades da disciplina Estrutura de Dados (Fatec)
+# Atividade-1-revisão
